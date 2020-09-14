@@ -23,12 +23,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
-        "sofa/eloquence-base": "^7.0",
-        "neondigital/eloquence-metable": "dev-master",
-        "sofa/eloquence-mutable": "^7.0",
-        "sofa/eloquence-mappable": "^7.0",
-        "sofa/eloquence-validable": "^7.0"
+        "php": ">=7.0.0"
     },
     "repositories": [
         {
